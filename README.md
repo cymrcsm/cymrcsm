@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Cymer Casem
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-Computer Engiyearning Student
+Cymer Casem, Computer Engiyearning Student
 ----------------------------
 
 Currently studying Computer Engineering
 
-Hardware Enthusiast: Custom Robotics
+Hardware Enthusiast: panagsa
 
-Software Focus: Python Development
+Software Focus: depende
 
 * 🌍  I'm based in Maasin City
 * ✉️  You can contact me at [casemcymer@gmail.com](mailto:casemcymer@gmail.com)
