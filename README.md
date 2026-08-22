@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm Cymer Casem, Computer Engineering Student
 ------------------------------------------
 hardware enthusiast: arduino, esp32 and raspberry pi
+
 software focus: javascript and c++
 
 * 🌍  I'm based in Maasin City
