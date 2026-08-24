@@ -21,6 +21,8 @@ software focus: javascript and c++
 
 <b>Tech Stacks and Tools</b>
 
+###
+
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -49,7 +51,11 @@ software focus: javascript and c++
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
+###
+
 <b>My GitHub Stats</b>
+
+###
 
 <a href="http://www.github.com/cymrcsm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cymrcsm&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
@@ -60,3 +66,5 @@ software focus: javascript and c++
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cymrcsm/cymrcsm/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cymrcsm/cymrcsm/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
+###
