@@ -57,6 +57,10 @@ software focus: javascript and c++
 
 ###
 
+<a href="http://www.github.com/cymrcsm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cymrcsm&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+###
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cymrcsm/cymrcsm/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cymrcsm/cymrcsm/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
