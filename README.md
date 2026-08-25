@@ -1,10 +1,10 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="155" width="1000" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGY4NGR5MnE5dTg0MXlkbDM0eTkwMTh3MTk3dTRucmExOWQzbmhrOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fmkYSBlJt3XjNF6p9c/giphy.gif"  />
+  <img data-importer="image" height="255" width="1000" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U0MmR1bWhycW91ZzV4emYzNWpweHM1a3drNm16dnRueXZyd2o4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Umx3uUva0bhQaKNtT5/giphy.gif"/>
 </div>
 
 ###
 
-Hi <img data-importer="image" height="50" width="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlkdnYzMWZvNWR5ejh4MjQ2ZGMzMTd3eGlpMXdzYWs4aG1yenIzciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/AkPwUFJqth1uUhMoMb/giphy.gif"  />
+Hi <img data-importer="image" height="50" width="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRlbnFjMnF5bXNyc2JneGdqM2oxbjN2NTRid2dwM292YW1nYjdicSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/AkPwUFJqth1uUhMoMb/giphy.gif"/><img data-importer="image" height="50" width="915" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VjNGExMmVpa3EyN2xwZDNwaGhzOThiZGs3Y3hmYnlxc2l5cXlkeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hRLydde9tjENkBcejw/giphy.gif"/>
 ====================================================================================================================================
 
 I'm an Computer Engineering Student
@@ -50,14 +50,6 @@ software focus: javascript and c++
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
-
-###
-
-<b>My GitHub Stats</b>
-
-###
-
-<a href="http://www.github.com/cymrcsm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cymrcsm&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ###
 
