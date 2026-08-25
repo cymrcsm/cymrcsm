@@ -4,7 +4,7 @@
 
 ###
 
-Hi <img data-importer="image" height="50" width="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRlbnFjMnF5bXNyc2JneGdqM2oxbjN2NTRid2dwM292YW1nYjdicSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/AkPwUFJqth1uUhMoMb/giphy.gif"/><img data-importer="image" height="50" width="900" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VjNGExMmVpa3EyN2xwZDNwaGhzOThiZGs3Y3hmYnlxc2l5cXlkeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hRLydde9tjENkBcejw/giphy.gif"/>
+Hi <img data-importer="image" height="50" width="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRlbnFjMnF5bXNyc2JneGdqM2oxbjN2NTRid2dwM292YW1nYjdicSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/AkPwUFJqth1uUhMoMb/giphy.gif"/><img data-importer="image" height="50" width="800" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VjNGExMmVpa3EyN2xwZDNwaGhzOThiZGs3Y3hmYnlxc2l5cXlkeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hRLydde9tjENkBcejw/giphy.gif"/>
 ====================================================================================================================================
 
 I'm an Computer Engineering Student
