@@ -26,6 +26,7 @@ software focus: javascript and c++
 ###
 
 <b>Tech Stacks and Tools</b>
+------------------------------------------
 
 ###
 
@@ -56,6 +57,11 @@ software focus: javascript and c++
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
+
+###
+
+<b>Streak</b>  <img data-importer="image" height="60" width="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGIyM2MwdW9vZm44N3MwdWRrdjF4ZGFrOXl2MWRndDI2YXk3aTNhZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/POHDj1Nh3HKm6Zg0sV/giphy.gif"/>
+------------------------------------------
 
 ###
 
