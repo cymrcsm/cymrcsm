@@ -1,10 +1,16 @@
+###
+
 <div data-importer="image" align="center">
   <img data-importer="image" height="255" width="1000" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U0MmR1bWhycW91ZzV4emYzNWpweHM1a3drNm16dnRueXZyd2o4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Umx3uUva0bhQaKNtT5/giphy.gif"/>
 </div>
 
 ###
 
-Hi <img data-importer="image" height="50" width="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRlbnFjMnF5bXNyc2JneGdqM2oxbjN2NTRid2dwM292YW1nYjdicSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/AkPwUFJqth1uUhMoMb/giphy.gif"/><img data-importer="image" height="50" width="800" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VjNGExMmVpa3EyN2xwZDNwaGhzOThiZGs3Y3hmYnlxc2l5cXlkeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hRLydde9tjENkBcejw/giphy.gif"/>
+<img data-importer="image" height="50" width="1020" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VjNGExMmVpa3EyN2xwZDNwaGhzOThiZGs3Y3hmYnlxc2l5cXlkeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hRLydde9tjENkBcejw/giphy.gif"/>
+
+###
+
+Hi <img data-importer="image" height="50" width="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRlbnFjMnF5bXNyc2JneGdqM2oxbjN2NTRid2dwM292YW1nYjdicSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif"/>
 ====================================================================================================================================
 
 I'm an Computer Engineering Student
@@ -60,3 +66,9 @@ software focus: javascript and c++
 </picture>
 
 ###
+
+<img data-importer="image" height="50" width="1020" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ZwaWI4cXd0dHk1c3NqcXdkNG0zdGN6bHA5cno5Nnl2bGh0cTB3ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Yg9EEV1IeLRd3Xy/giphy.gif"/>
+
+###
+
+
