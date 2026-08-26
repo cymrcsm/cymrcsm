@@ -62,11 +62,10 @@ software focus: javascript and c++
 
 <b>Streak</b>  <img data-importer="image" height="60" width="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGIyM2MwdW9vZm44N3MwdWRrdjF4ZGFrOXl2MWRndDI2YXk3aTNhZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/POHDj1Nh3HKm6Zg0sV/giphy.gif"/>
 ------------------------------------------
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cymrcsm&" alt="cymrcsm" /></p>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.koyeb.app?user=cymrcsm&theme=neon&hide_border=true&border_radius=10" alt="GitHub Streak" /></a>
+</div>
 
 ###
 
